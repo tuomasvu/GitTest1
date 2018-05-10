@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Program
+    class Feature1
     {
-        static void Main(string[] args)
-        {
-
-            // Code to call Feature 1
-        }
     }
 }
